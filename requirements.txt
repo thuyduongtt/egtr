@@ -10,3 +10,4 @@ pycocotools==2.0.5
 ninja==1.10.2
 matplotlib==3.4.3
 pandas==1.2.5
+numpy==1.23.5  # avoid deprecated numpy.float
